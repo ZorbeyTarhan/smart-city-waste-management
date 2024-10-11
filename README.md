@@ -1,5 +1,3 @@
-# smart-city-waste-management
-
 # Smart City Waste Management System
 
 This project is a TypeScript application for a smart city waste management and recycling system.
